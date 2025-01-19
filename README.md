@@ -1,2 +1,2 @@
-#Desciption
+#Description
 Parallel & Dist Computing
