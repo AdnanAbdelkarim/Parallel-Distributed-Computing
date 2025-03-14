@@ -1,2 +1,0 @@
-#Description
-Parallel & Dist Computing
